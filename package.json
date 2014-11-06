@@ -1,0 +1,16 @@
+{
+  "name": "github-repo-from-config",
+  "version": "0.0.0",
+  "description": "Parse the github repo from .git/config",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "micnews/github-repo-from-config",
+  "devDependencies": {
+    "tape": "^3.0.2"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "github-url-from-git": "^1.4.0"
+  }
+}
